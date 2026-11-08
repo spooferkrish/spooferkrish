@@ -2,7 +2,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=spooferkrish&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153352321%3Fu%3Dfab7713ab81e54632b2565c47826290fbcf659a4%26v%3D4" alt="spooferkrish hero visual" />
 </p>
 
-<p align="center"><b>krishanth christopher</b> · Frontend or full-stack engineer<br/><sub>Building in public on GitHub.</sub></p>
+<p align="center"><b>krishanth christopher</b> · Ai Engineer and Ai powered Full stack Developer<br/><sub>Building in public on GitHub.</sub></p>
 
 <p align="center"><a href="https://github.com/spooferkrish">GitHub</a></p>
 
